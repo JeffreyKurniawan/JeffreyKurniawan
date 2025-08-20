@@ -38,7 +38,7 @@
 
 ## 📫 Let's Connect  
 - ✉️ Email: **jeffreykurniawan11@gmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/jeffrey-kurniawan-bb60b4290)  
-- 📸 [Instagram]((https://www.instagram.com/jekaa__11/))  
+- 💼 LinkedIn: [linkedin.com/in/jeffrey-kurniawan](www.linkedin.com/in/jeffrey-kurniawan-bb60b4290)  
+- 📸 Instagram: [@jekaa__11]((https://www.instagram.com/jekaa__11/))  
 
 ---
