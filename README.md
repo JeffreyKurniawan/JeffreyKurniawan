@@ -43,8 +43,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 
 ### 🛠️ Database & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
@@ -55,7 +54,7 @@
 - ✉️ Email: **jeffreykurniawan11@gmail.com**  
 - 🔗 [GitHub](https://github.com/JeffreyKurniawan)  
 - 💼 [LinkedIn](www.linkedin.com/in/jeffrey-kurniawan-bb60b4290)  
-- 📸 [Instagram](@jekaa_11)  
+- 📸 [Instagram]([@jekaa_11](https://www.instagram.com/jekaa__11/))  
 
 ---
 
