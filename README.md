@@ -2,7 +2,7 @@
 
 🎓 5th-semester **Data Science undergraduate** at **BINUS University**  
 💡 Passionate about **machine learning, data-driven solutions, and user-centered design**  
-🚀 Always exploring the intersection of **AI, full-stack development, and creative design**  
+🚀 Always exploring the intersection of **data science, artificial intelligence, and innovative problem-solving.**  
 
 ---
 
