@@ -9,7 +9,7 @@
 ## 🧠 About Me  
 - 🔍 Turning **real-world problems** into **data-driven insights**  
 - 🤖 Skilled in **Machine Learning, Deep Learning, and Generative Models**  
-- 📊 Enthusiastic about **data visualization & storytelling**  
+- 📊 Enthusiastic about **data visualization**  
 - 🎨 Love building projects that combine **functionality + intuitive design**  
 
 ---
